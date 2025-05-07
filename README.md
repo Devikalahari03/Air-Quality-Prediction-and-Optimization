@@ -1,5 +1,7 @@
 # Air-Quality-Prediction-and-Optimization
 
+# https://th.bing.com/th/id/OIP.3blliWkyUk25ieyKJlLYFAHaD_?rs=1&pid=ImgDetMain
+
 This project leverages machine learning to predict Air Quality Index (AQI) values based on air quality measurements, using data from various regions in the United States. The objective is to develop a model capable of accurately forecasting AQI levels, allowing for insights into environmental and pollution patterns.
 
 ---
